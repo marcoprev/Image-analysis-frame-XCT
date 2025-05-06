@@ -1,8 +1,5 @@
 clearvars
 close all
-addpath('C:\Users\tr_hp\OneDrive - University of Dundee\Desktop\Thomas Riccio - UoD\126. Matlab colours')
-addpath('C:\Users\Thomas Riccio\OneDrive - University of Dundee\Desktop\Thomas Riccio - UoD\126. Matlab colours')
-addpath('C:\Users\140007677.DUNDEE\OneDrive - University of Dundee\Desktop\Thomas Riccio - UoD\126. Matlab colours')
 fname = 'Stage1_zeroed_and_continuing_seenotes_to52.25mm.avi';
 filename_out = strrep(fname,'.avi','_postprocessed.gif');
 filename_vid = strrep(fname,'.avi','_postprocessed.mp4');
