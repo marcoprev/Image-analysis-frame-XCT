@@ -1,15 +1,11 @@
 cff-version: 1.2.0
-message: "Use the following citiation”
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Previtali
-    given-names: Marco
-    orcid: https://orcid.org/0000-0002-3952-5061
-  - family-names: Riccio
-    given-names: Thomas
-    orcid: https://orcid.org/0000-0002-4777-9002
-title: "Image analysis frame XCT"
-version: 1.0
-identifiers:
-  - type: doi
-    value: https://doi.org/10.20933/100001306
-date-released: 06-05-2025
+- family-names: "Previtali"
+  given-names: "Marco"
+  orcid: "https://orcid.org/0000-0002-3952-5061"
+title: "Image-analysis-frame-XCT"
+version: 1.0.0
+doi: https://doi.org/10.20933/100001306
+date-released: 2025-05-06
+url: "https://github.com/marcoprev/Image-analysis-frame-XCT"
